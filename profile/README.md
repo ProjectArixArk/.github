@@ -1,4 +1,4 @@
-**[爆散]ProjectArix Organization (廃止手続き中)
+** [爆散]ProjectArix Organization (廃止手続き中)
 本組織（ProjectArix）は、同級生3名によって設立された、低レイテンシシステム・プログラミング言語基盤・および高度なソフトウェア構造の検証と実装を目的とする（はずだった）独立開発チームです。
 
 1. 組織の目的とビジョン (Core Philosophy)
